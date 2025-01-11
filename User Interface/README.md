@@ -12,7 +12,7 @@ The following books and PDF documents are contained in the **User Interface (UI)
     <img src="../docs/User%20Interface/Color%20Theory%20in%20Web%20UI%20Design.jpeg" width="325" height="auto" loading="lazy" alt="">
 </a>
 
-<a href="../User%20Interface/Consistency%20UI%20Design%20Creativity%20Without%20Confusion.pdf style="padding-right: 10px;" target="_blank">
+<a href="../User%20Interface/Consistency%20UI%20Design%20Creativity%20Without%20Confusion.pdf" style="padding-right: 10px;" target="_blank">
     <img src="../docs/User%20Interface/Consistency%20UI%20Design%20Creativity%20Without%20Confusion.jpeg" width="325" height="auto" loading="lazy" alt="">
 </a>
 
